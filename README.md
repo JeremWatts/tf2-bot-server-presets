@@ -55,7 +55,7 @@ iconic maps that seem to have working navmeshes:
 | pl_goldrush | | |
 | pl_thundermountain | | |
 | pl_pier | | |
----
+
 ​  
 
 ## usage
