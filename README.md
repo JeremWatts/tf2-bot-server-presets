@@ -4,6 +4,7 @@ quick console commands for setting up tf2 bot practice servers.
 
 
 
+​  
 
 **what:** medic fill
 
@@ -14,6 +15,7 @@ tf_bot_kick all ; tf_bot_reevaluate_class_in_spawnroom 0 ; tf_use_fixed_weaponsp
 
    
    
+​  
 
 **what:** fix for odd medic fill
 
@@ -24,6 +26,7 @@ tf_bot_kick all ; tf_bot_reevaluate_class_in_spawnroom 0 ; tf_use_fixed_weaponsp
 
    
    
+​  
 
 **what:** sixes simulation
 
@@ -36,6 +39,7 @@ tf_bot_kick all ; tf_bot_add 4 soldier hard ; tf_bot_add 2 demoman hard ; tf_bot
 
    
    
+​  
 
 ## tested maps
 iconic maps that seem to have working navmeshes:
