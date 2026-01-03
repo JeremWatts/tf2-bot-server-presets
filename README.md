@@ -6,7 +6,7 @@ Quick console commands for setting up TF2 bot practice servers.
 
 ## Presets
 
-### What: Medic fill
+**What:** Medic fill
 **Why:** More juicy hitboxes for your lanparty
 ```console
 tf_bot_kick all ; tf_bot_reevaluate_class_in_spawnroom 0 ; tf_use_fixed_weaponspreads 1 ; tf_weapon_criticals 0 ; tf_bot_add 2 medic hard ; mp_disable_respawn_times 1
