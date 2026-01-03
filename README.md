@@ -22,6 +22,7 @@ tf_bot_kick all ; tf_bot_reevaluate_class_in_spawnroom 0 ; tf_use_fixed_weaponsp
 **what:** sixes simulation
 
 **why:** you like the idea of sixes but commiting to finding a group of 11 other people is rough
+
 ⚠️ **important:** select your class first, move the command that spawns your bot counterpart in this command to happen right after the "kick all", then reduce that class count by 1 in the command
 ```console
 tf_bot_kick all ; tf_bot_add 4 soldier hard ; tf_bot_add 2 demoman hard ; tf_bot_add 2 medic hard ; tf_bot_add 4 scout hard ; tf_bot_reevaluate_class_in_spawnroom 0 ; tf_use_fixed_weaponspreads 1 ; tf_weapon_criticals 0 ; mp_disable_respawn_times 1
